@@ -1,2 +1,2 @@
-**/.appwrite
-**/.env
+# Directory used by Appwrite CLI for local development
+.appwrite
